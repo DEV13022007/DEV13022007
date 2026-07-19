@@ -10,7 +10,7 @@
 <!-- ================= TYPING ANIMATION ================= -->
 <p align="center">
   <a href="https://github.com/DEV13022007">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Backend+Developer+Intern+%40+MoveInSync;Java+%7C+Spring+Boot+%7C+REST+APIs;75%2B+LeetCode+Problems+Solved;Building+the+engine+behind+great+apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Backend+Developer+Intern+%40+MoveInSync;Java+%7C+Spring+Boot+%7C+REST+APIs;95%2B+LeetCode+Problems+Solved;Building+the+engine+behind+great+apps" alt="Typing SVG" />
   </a>
 </p>
 
