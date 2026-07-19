@@ -22,7 +22,7 @@
 - 🏢 Currently a **Backend Developer Intern @ MoveInSync**
 - 🎓 Pursuing **B.Tech CSE** at SIET, Prayagraj (2024–2028)
 - 🌱 Learning **Spring Security, Microservices & Docker** deeply
-- 🧩 Solved **75+ problems** on LeetCode (Arrays, Strings, Linked Lists, Trees)
+- 🧩 Solved **95+ problems** on LeetCode (Arrays, Strings, Linked Lists, Trees)
 - 🌐 Portfolio: **[dev13022007.github.io](https://dev13022007.github.io/)**
 - 📫 Reach me: **kushwahadevendra002@gmail.com**
 - ⚡ Fun fact: I turn ☕ into REST APIs
