@@ -6,7 +6,7 @@
 <!-- ================= TYPING ANIMATION ================= -->
 <p align="center">
   <a href="https://github.com/DEV13022007">
-    <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Backend+Developer+Intern+%40+MoveInSync;Java+%7C+Spring+Boot+%7C+REST+APIs;75%2B+LeetCode+Problems+Solved;Building+the+engine+behind+great+apps" alt="Typing SVG](https://camo.githubusercontent.com/1f6521ae478f99717e8c86f90d9d76cd9b62dbfb14f58ebc275a0a5d7e45cc20/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303a3161316232372c3130303a326638316637266865696768743d3230302673656374696f6e3d68656164657226746578743d446576656e6472612532304b7573687761686126666f6e7453697a653d343826666f6e74436f6c6f723d66666666666626616e696d6174696f6e3d66616465496e26666f6e74416c69676e593d333526646573633d4261636b656e64253230446576656c6f7065722532302537432532304a617661253230253236253230537072696e67253230426f6f74266465736353697a653d31382664657363416c69676e593d3535)" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Backend+Developer+Intern+%40+MoveInSync;Java+%7C+Spring+Boot+%7C+REST+APIs;75%2B+LeetCode+Problems+Solved;Building+the+engine+behind+great+apps" alt="Typing SVG" />
   </a>
 </p>
 
