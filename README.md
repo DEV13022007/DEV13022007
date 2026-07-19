@@ -1,4 +1,11 @@
 <h1 align="center">Hi 👋, I'm Devendra Kushwaha</h1>
+<h3 align="center">Backend Developer · Java & Spring Boot · MoveInSync Intern</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open_to-Internships%20%7C%20Jobs-2f81f7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-6DB33F?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Based_in-Prayagraj%2C%20India-ED8B00?style=flat-square"/>
+</p>
 
 <!-- ================= TYPING ANIMATION ================= -->
 <p align="center">
