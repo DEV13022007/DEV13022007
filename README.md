@@ -1,18 +1,10 @@
-<!-- ================= WAVE BANNER ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:2f81f7&height=200&section=header&text=Devendra%20Kushwaha&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descSize=18&descAlignY=55" alt="banner"/>
-</p>
+<h1 align="center">Hi 👋, I'm Devendra Kushwaha</h1>
 
 <!-- ================= TYPING ANIMATION ================= -->
 <p align="center">
   <a href="https://github.com/DEV13022007">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Backend+Developer+Intern+%40+MoveInSync;Java+%7C+Spring+Boot+%7C+REST+APIs;75%2B+LeetCode+Problems+Solved;Building+the+engine+behind+great+apps" alt="Typing SVG" />
   </a>
-</p>
-
-<!-- ================= PROFILE VIEWS ================= -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DEV13022007&label=Profile%20Views&color=2f81f7&style=for-the-badge" alt="profile views"/>
 </p>
 
 ---
@@ -56,12 +48,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DEV13022007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEV13022007&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=DEV13022007&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DEV13022007&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEV13022007&theme=tokyonight&hide_border=true" alt="streak"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=DEV13022007&theme=tokyonight&hide_border=true" alt="streak"/>
 </p>
 
 ---
@@ -102,11 +94,6 @@
 </p>
 
 ---
-
-<!-- ================= FOOTER WAVE ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f81f7,100:1a1b27&height=120&section=footer" alt="footer"/>
-</p>
 
 <p align="center">
   <b>⭐ Built with ❤️ by Devendra Kushwaha · Java & Spring Boot ⭐</b>
