@@ -22,7 +22,7 @@
 - 🏢 Currently a **Backend Developer Intern @ MoveInSync**
 - 🎓 Pursuing **B.Tech CSE** at SIET, Prayagraj (2024–2028)
 - 🌱 Learning **Spring Security, Microservices & Docker** deeply
-- 🧩 Solved **95+ problems** on LeetCode (Arrays, Strings, Linked Lists, Trees)
+- 🧩 Solved **121+ problems** on LeetCode (Arrays, Strings, Linked Lists)
 - 🌐 Portfolio: **[dev13022007.github.io](https://dev13022007.github.io/)**
 - 📫 Reach me: **kushwahadevendra002@gmail.com**
 - ⚡ Fun fact: I turn ☕ into REST APIs
@@ -81,6 +81,7 @@
 |---------|-------------|------|
 | 🚗 [Ride App](https://github.com/DEV13022007/rideapp) | Backend for a ride-booking application | Java, Spring Boot, PostgreSQL |
 | 🎓 [Student Management](https://github.com/DEV13022007/StudentManagement) | CRUD system for student records | Java, Spring Boot, JPA |
+
 
 ---
 
